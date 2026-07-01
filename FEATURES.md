@@ -1,6 +1,6 @@
 # User Features
 
-These Features are going to be the features that are pushed at launch
+These features are going to be the features that are pushed at launch
 
 - Journey Planning
 - Live Departures
@@ -14,7 +14,7 @@ These Features are going to be the features that are pushed at launch
 
 ## Future Features
 
-These Features are going to be implemented along the way
+These features are going to be implemented along the way
 
 - One payment for all transport
 - Mobility Subscriptions
