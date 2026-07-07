@@ -10,4 +10,5 @@ VISION.md
 FEATURES.md
 DISCLAIMER.md
 
-Started: 01/07/26
+## Started
+01/07/26
