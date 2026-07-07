@@ -4,4 +4,10 @@ Project MotionOS aims to unify buses, trams, trains, and other transport systems
 
 Status: Planning & Research
 
+## Repository Structure
+README.md
+VISION.md
+FEATURES.md
+DISCLAIMER.md
+
 Started: 01/07/26
